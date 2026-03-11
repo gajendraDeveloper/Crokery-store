@@ -27,7 +27,7 @@ const Login = () => {
       }
     }
   return (
-    <div className="min-h-screen w-full flex items-center justify-center bg-linear-to-r from-amber-100 to-amber-300 px-4">
+    <div className="min-h-screen w-full flex items-center justify-center bg-linear-to-r from-amber-300 to-amber-300 px-4">
       <div className="flex w-full max-w-5xl rounded-2xl overflow-hidden shadow-xl bg-white">
         <div className="hidden md:block md:w-1/2">
           <img
